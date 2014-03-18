@@ -1,0 +1,31 @@
+{
+  "name": "silos-toolbelt",
+  "version": "0.0.1",
+  "description": "CLI for Silos Framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d1b1/silos-toolbelt.git"
+  },
+  "keywords": [
+    "cli",
+    "content",
+    "api",
+    "framework"
+  ],
+  "author": "Stephan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d1b1/silos-toolbelt/issues"
+  },
+  "homepage": "https://github.com/d1b1/silos-toolbelt",
+  "dependencies": {
+    "commander": "~2.1.0",
+    "request": "~2.34.0",
+    "colors": "~0.6.2",
+    "underscore": "~1.6.0"
+  }
+}
